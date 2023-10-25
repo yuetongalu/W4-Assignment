@@ -67,3 +67,5 @@ FLood should be in this file
     #~~~~###............#~~
     #~~~~#............###~~
     #~~~~##############~~~~
+
+    modified_board = flood_fill(input_board=board, old=".", new="~", x=6, y=10)
